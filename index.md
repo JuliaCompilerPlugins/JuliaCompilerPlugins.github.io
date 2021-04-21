@@ -4,8 +4,8 @@ title = "JuliaCompilerPlugins"
 
 ~~~
 <div id=home-jumbotron class="jumbotron text-center">
-  <h1><img height=100 src="/assets/logo_crop.png">
-      JuliaCompilerPlugins</h1>
+  <h2><img height=100 src="/assets/logo_crop.png">
+      JuliaCompilerPlugins</h2>
   <p class=font-125>
     Configurable compiler plugins for the Julia language.
   </p>
