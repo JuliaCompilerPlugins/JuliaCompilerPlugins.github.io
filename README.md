@@ -8,7 +8,6 @@ master branch is automatically deployed by Github Actions.
 ## Quick start
 
 To view the site locally, install Franklin and run `serve()` in the root of this repository.
-A manifest is provided to exactly reproduce the package dependencies as used by CI.
 
 For deploying to `juliacompilerplugins.github.io`, just create a pull request. A comment will appear with a
 link to a preview of the website. Once the PR is merged to master, CI will automatically
