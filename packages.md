@@ -13,7 +13,7 @@ The following packages are currently managed by this organization:
  A static method overlay and optimization tool with configurable code generation and execution. 
 <br>
 <br>
-<a href="https://juliacompilerplugins.github.io/Mixtape.jl/">
+<a href="https://juliacompilerplugins.github.io/Mixtape.jl/dev">
   <img src="https://img.shields.io/badge/docs-latest-blue.svg" alt>
 </a>
 <a href="https://juliacompilerplugins.github.io/Mixtape.jl/">
@@ -34,7 +34,7 @@ The following packages are currently managed by this organization:
 A utility package for working with Julia's CodeInfo internal representation. 
 <br>
 <br>
-<a href="https://juliacompilerplugins.github.io/CodeInfoTools.jl/">
+<a href="https://juliacompilerplugins.github.io/CodeInfoTools.jl/dev">
   <img src="https://img.shields.io/badge/docs-latest-blue.svg" alt>
 </a>
 <a href="https://juliacompilerplugins.github.io/CodeInfoTools.jl/">
@@ -55,7 +55,7 @@ A utility package for working with Julia's CodeInfo internal representation.
 collective tools for Julia SSA IR. 
 <br>
 <br>
-<a href="https://juliacompilerplugins.github.io/CompilerPluginTools.jl/">
+<a href="https://juliacompilerplugins.github.io/CompilerPluginTools.jl/dev">
   <img src="https://img.shields.io/badge/docs-latest-blue.svg" alt>
 </a>
 <a href="https://juliacompilerplugins.github.io/CompilerPluginTools.jl/">
