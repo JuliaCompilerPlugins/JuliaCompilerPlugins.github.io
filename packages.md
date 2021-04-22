@@ -66,3 +66,63 @@ collective tools for Julia SSA IR.
 </a>
 </p>
 ~~~
+
+---
+
+Members of this organization are also currently working on these packages:
+
+---
+
+## YaoCompiler
+
+~~~
+<p>
+A next-generation compiler for quantum programs.
+<br>
+<br>
+<a href="https://github.com/QuantumBFS/YaoCompiler.jl/">
+  <img src="https://img.shields.io/github/stars/QuantumBFS/YaoCompiler.jl?style=social" alt>
+</a>
+<a href="https://github.com/QuantumBFS/YaoCompiler/">
+  <img src="https://codecov.io/github/QuantumBFS/YaoCompiler.jl/badge.svg?branch=master" alt>
+</a>
+</p>
+~~~
+
+---
+
+## Brutus
+
+~~~
+<p>
+An alternative code generator and optimizer for Julia using MLIR.
+<br>
+<br>
+<a href="https://github.com/JuliaLabs/brutus/">
+  <img src="https://img.shields.io/github/stars/JuliaLabs/brutus?style=social" alt>
+</a>
+<a href="https://github.com/JuliaLabs/brutus/">
+  <img src="https://codecov.io/github/JuliaLabs/brutus/badge.svg?branch=master" alt>
+</a>
+</p>
+~~~
+
+---
+
+## MLIR.jl
+
+~~~
+<p>
+Julia wrappers for the MLIR C API.
+<br>
+<br>
+<a href="https://github.com/vchuravy/MLIR.jl/">
+  <img src="https://img.shields.io/github/stars/vchuravy/MLIR.jl?style=social" alt>
+</a>
+<a href="https://github.com/vchuravy/MLIR.jl/">
+  <img src="https://codecov.io/github/vchuravy/MLIR.jl/badge.svg?branch=master" alt>
+</a>
+</p>
+~~~
+
+---
